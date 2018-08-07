@@ -5,9 +5,7 @@
  */
 package gpio;
 
-import com.pi4j.io.gpio.Pin;
 import gpio.Enums.EStatus;
-import gpio.Fehlerbehandlung.FalscherModusException;
 import gpio.Interfaces.IAction;
 import gpio.Interfaces.IControler;
 import java.util.logging.Level;
